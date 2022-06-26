@@ -1,0 +1,16 @@
+{
+  "explorer.width": 30,
+  "explorer.icon.enableNerdfont": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "c",
+    "go",
+    "python",
+    "rust",
+    "markdown",
+    "javascript",
+    "typescript",
+    "json",
+    "jsonc",
+    "java"
+  ]
+}
